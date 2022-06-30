@@ -10,14 +10,14 @@ REST는 다음과 같은 3가지로 구성이 되어있다.
 자원에 대한 행위의 내용 (Representations) : HTTP Message Pay Load -->
 
 
-REST란 
+먼저 REST란 
 HTTP URI(Uniform Resource Identifier)를 통해 자원(Resource)을 명시하고,
 HTTP Method(POST, GET, PUT, DELETE)를 통해
 해당 자원(URI)에 대한 CRUD Operation을 적용하는 것을 의미합니다.
 
 
 
-RESTFUL이란 REST의 원리를 따르는 시스템을 의미합니다. 
+RESTFUL API란 REST의 원리를 따르는 시스템을 의미합니다. 
 하지만 REST를 사용했다 하여 모두가 RESTful 한 것은 아닙니다.
 
 REST API의 설계 규칙을 올바르게 지킨 시스템을 RESTful하다 말할 수 있으며
