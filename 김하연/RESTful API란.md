@@ -18,7 +18,7 @@ HTTP Method(POST, GET, PUT, DELETE)를 통해
 
 
 RESTFUL API란 REST의 원리를 따르는 API를 의미합니다. 
-하지만 REST를 사용했다 하여 모두가 RESTful 한 것은 아닙니다.
+하지만 REST기법을 사용했다 하여 모두가 RESTful 한 것은 아닙니다.
 
 REST API의 설계 규칙을 올바르게 지킨 시스템을 RESTful하다 말할 수 있으며
 
