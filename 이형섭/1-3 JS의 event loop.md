@@ -15,4 +15,4 @@
 
 참고
 [JS의 Event Loop]
-https://asfirstalways.tistory.com/362
+https://asfirstalways.tistory.com/362.
