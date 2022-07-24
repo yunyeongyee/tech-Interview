@@ -8,7 +8,7 @@ CORS는 무엇인가요?
 
 이러한 허락을 구하고 거절하는 메커니즘을 HTTP-header를 이용해서 가능한데, 이를 CORS(Cross-Origin Resource Sharing)라고 부릅니다.
 
-요약하자면, 브라우저에서 cross-origin 요청을 안전하게 할 수 있도록 하는 메커니즘입니다.
+요약하자면, cors란 브라우저에서 cross-origin 요청을 안전하게 할 수 있도록 하는 메커니즘입니다.
 
 
 참고
