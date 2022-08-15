@@ -11,3 +11,7 @@
 하지만, 블록 레벨 스코프인 let keyword로 선언된 변수는 선언문 이전에 참조 시, 참조 에러(ReferenceError)가 발생한다.
 
 이는 let 키워드로 선언된 변수는 스코프의 시작에서 변수의 선언까지 일시적 사각지대(Temporal Dead Zone; TDZ)에 빠지기 때문이다.
+
+
+
+https://gmlwjd9405.github.io/2019/04/22/javascript-hoisting.html
