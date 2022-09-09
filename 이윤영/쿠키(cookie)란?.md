@@ -1,4 +1,4 @@
-## ✅ 쿠키(Cookie)?
+## ✅ 쿠키(Cookie)란?
 <br>
 
 <div markdown="1">
