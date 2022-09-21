@@ -1,7 +1,10 @@
 # tech-interview
 
 ### 기술면접 실전 대비 스터디
-<br>
+
+[![author](https://img.shields.io/badge/author-HayeonKimm-ff69b4.svg?style=flat-square)](https://jbee.io/about)
+[![CONTRIBUTORS](https://img.shields.io/badge/contributors-7-green.svg?style=flat-square)](https://github.com/HayeonKimm/tech-Interview/blob/master/CONTRIBUTING.md)<br><br>
+
 
 <a href="https://github.com/HayeonKimm/Python/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=HayeonKimm/tech-Interview"/width=50%>
