@@ -10,9 +10,12 @@
   <img src="https://contrib.rocks/image?repo=HayeonKimm/tech-Interview"/width=50%>
 </a><br><br>
 
-#### 모든 질문에 대한 답은 스스로 작성합니다.     
+#### 모든 질문에 대한 답은 스스로 작성합니다.   
+#### 스터디원에게 아낌없이 피드백을 줍니다.  
+
+<br>
 
 
 [Interview_Question_for_Beginner](https://github.com/HayeonKimm/Interview_Question_for_Beginner)
-<br><br><br>
+<br><br><br><br>
 가입문의 : 김하연 010-5817-3933
